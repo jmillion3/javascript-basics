@@ -88,15 +88,15 @@ let devMountainClassPet = dog.name
 // Code here
 function nameCheck(name){
   if (name === "Steven"){
-     return `What is up ${name}`
+     return `What is up Steven?`
    } else if (name === "Bryan"){
-     return `Hey ${name}`
+     return `Hey Bryan!`
    } else {
-     return `cool name, ${name}`
+     return `Cool name, ${name}`
    }
 }
 
-nameCheck("Steven")
+nameCheck("Bryan")
 
 //////////////////PROBLEM 11////////////////////
 
